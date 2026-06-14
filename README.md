@@ -1,4 +1,4 @@
-# 🛋️ Furmi.
+# 🛋️ Furni.
 
 <div align="center">
 
