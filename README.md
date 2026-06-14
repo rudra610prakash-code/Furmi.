@@ -1,4 +1,4 @@
-# 🛋️ Furmi. - Modern Interior Design Studio
+# 🛋️ Furmi.
 
 <div align="center">
 
@@ -87,14 +87,18 @@ cd Furmi.
 
 ---
 
+## 📸 Screenshot
+---
+<img width="1303" height="589" alt="image" src="https://github.com/user-attachments/assets/39979b85-5ec4-4b47-906b-e5300f20a4f6" />
+<img width="1110" height="514" alt="image" src="https://github.com/user-attachments/assets/69cae2fd-3c9c-45ad-83b8-17c94045daf2" />
+<img width="1331" height="503" alt="image" src="https://github.com/user-attachments/assets/ab761ccd-1416-4192-97bc-d7f76477d9d6" />
+
+
+
+
 ## 👨‍💻 Author
 
 Created by [rudra610prakash-code](https://github.com/rudra610prakash-code)
 
 ---
 
-<div align="center">
-
-Made with ❤️ | Give it a ⭐ if you like it!
-
-</div>
